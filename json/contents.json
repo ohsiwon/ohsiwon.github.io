@@ -1,0 +1,181 @@
+{
+    "work":
+    [
+    {
+        "name": "Featured works",
+        "data": [     
+        {
+            "title"     : "Friendtervention",
+            "perma"     : "friendtervention",
+            "num_slide" : 3,
+            "client"    : "GenerationFREE",
+            "agency"    : "ClickFire Media",
+            "type"      : "Website",
+            "role"      : "Developer",
+            "desc"      : "The Friendtervention site is an anti-smoking information site for teenagers. User can customize the video from varity of short clips and play them seamlessly from any platform include mobile devices.",
+            "url"       : "http://www.myfriendtervention.com"
+        },        
+        {
+            "title"		: "ArmorAll - The Viking's Lair",
+            "perma"	    : "armorall",
+            "num_slide"	: 3,
+            "client"	: "Armor All",
+            "agency"	: "ClickFire Media",
+            "type"		: "Facebook web app",
+            "role"		: "Developer",
+            "desc"		: "In this project I was asked to create a Facebook app based promotion site for Armor All. The main idea of this app is  sending the personalized viking message to friend’s house, virtually.<br/><br/>Incorporating Google Maps APIs and Flash techonology, I was able to create a viking's driving travel scenes through friend’s neighborhood along with custom message using motion tracking data in prerendered video.",
+            "url" 		: "http://www.facebook.com/ArmorAll/app_183628798461351"
+        },
+        {
+            "title"     : "Amtrak - Holiday Connections",
+            "perma"     : "amtrak",
+            "num_slide" : 4,
+            "client"    : "Amtrak",
+            "agency"    : "ClickFire Media",
+            "type"      : "Website",
+            "role"      : "Developer",
+            "desc"      : "Create and send your custom holiday card with Amtrak's Holiday Connections!<br/>In this project I was asked to build a site with photo manipulation tool and merge the photo into video message.<br/>Site runs seamlessly on both of desktop and mobile devices.",
+            "url"       : null
+        },            
+        {
+            "title"		: "GSL Skin Consultation",
+            "perma"	    : "goodskinlab",
+            "num_slide"	: 3,
+            "client"	: "Estee Lauder",
+            "agency"	: "ClickFire Media",
+            "type"		: "Website",
+            "role"		: "Developer",
+            "desc"		: "GSL Skin Consultation is on-line diagnostics tool to allow users to take the quizzes and explore the different products under Goodskin Labs.<br/>The diagnostics tool is localized in seven different language translations and all can be managed with a fully customized CMS.",
+            "url" 		: "http://www.goodskinlabs.com/?q=Diagnostics/&menu=1047"
+        },
+        {
+            "title"		: "Common Good Forecaster",
+            "perma"	    : "cgf",
+            "num_slide"	: 2,
+            "client"	: "United Way and MOA",
+            "agency"	: "Krate",
+            "type"		: "Rich Internet Application",
+            "role"		: "Developer",
+            "desc"		: "Common Good Forecaster™ is a free online tool that lets people see and create own forecast report for themselves how improving the education level has a positive impact on several key  economic and social measures.",
+            "url" 		: "http://apps.unitedway.org/forecaster/"
+        },
+        {
+            "title"		: "GifBox",
+            "perma"	    : "uniqlo",
+            "num_slide"	: 3,
+            "client"	: "Uniqlo",
+            "agency"	: "Digitas | ClickFire Media",
+            "type"		: "Promotional website",
+            "role"		: "Developer",
+            "desc"		: "This promotional site was for celebrating the new opening of Uniqlo's e-commerce in 2012 holiday season. They gave away the discount coupons and prizes up to $500 worth of gift card along with randomly selected animated GIF represent Uniqlo brand.<br/><br/>In this project I worked at most of front-end development including CSS and Javascript based animations runs seamlessly on desktop and mobile devices.",
+            "url" 		: null
+        },
+        {
+            "title"     : "Jersey Boys",
+            "perma"     : "jerseyboys",
+            "num_slide" : 3,
+            "client"    : "Jersey Boys",
+            "agency"    : "RICG | Krate",
+            "type"      : "Website",
+            "role"      : "Developer",
+            "desc"      : "Jersey Boys is one of the famous show in Broadway, won Tony Award® Winner for Best Musical in 2006.<br/>In this project my role was a front-end developer and built a playful, fun and effective user experienced site.",
+            "url"       : null
+        },
+        {
+            "title"		: "The Residence at Mandarin Oriental",
+            "perma"	    : "mandarin_oriental",
+            "num_slide"	: 2,
+            "client"	: "Mandarin Oriental",
+            "agency"	: "Carbone Smolan | Krate",
+            "type"		: "Website",
+            "role"		: "Developer",
+            "desc"		: "Mandarin Oriental is an international hotel investment and management group with luxury hotels, resorts and residences in Asia, Europe and the Americas.<br/>",
+            "url" 		: null
+        },     
+        {
+            "title"		: "Studio SUMO",
+            "perma"	    : "studiosumo",
+            "num_slide"	: 3,
+            "client"	: "Studio Sumo",
+            "agency"	: "Krate",
+            "type"		: "Website",
+            "role"		: "Front-end Developer",
+            "desc"		: "Studio Sumo is an architecture partnership focused on innovative design involving extensive research, formal exploration, and material invention.<br/>The site is made with Flash and customized CMS.",
+            "url" 		: "http://www.studiosumo.com"
+        }
+        ]
+    },
+    {
+        "name": "Personal creative works",
+        "data": [
+        {
+            "title"     : "Moon Boy!",
+            "perma"     : "moonboy",
+            "num_slide" : 1,
+            "client"    : null,
+            "agency"    : null,
+            "type"      : "Mobile game",
+            "role"      : "Designer, Developer",
+            "desc"      : "Oh no, coins are everywhere! Please help moon boy to collect coins from the moon!<br/><br/>Moon Boy is about an 8-bit astronaut who travels through space full of coins, spiky stars and hearts. Coins are points, hearts are lives and stars hurt you.<br/><br/>Available on iPhone and Android for Free.<br/>Get it now!",
+            "url"       : "https://itunes.apple.com/us/app/moon-boy!/id898567117?ls=1&mt=8"
+        },          
+        {
+            "title"     : "JogDial.js",
+            "perma"     : "jogdial",
+            "num_slide" : 1,
+            "client"    : null,
+            "agency"    : null,
+            "type"      : "Open Source",
+            "role"      : "Developer",
+            "desc"      : "JogDial is a simple JavaScript plugin that help you to create dial style controller easily on the webpage.",
+            "url"       : "http://www.ohsean.net/plugins/jogdial/"
+        },        
+        {
+            "title"		: "jFloat.js",
+            "perma"	    : "jfloat",
+            "num_slide"	: 1,
+            "client"	: null,
+            "agency"	: null,
+            "type"		: "Open Source",
+            "role"		: "Developer",
+            "desc"		: "jFloat is a small jQuery plugin that can help you to create floating elements and make them to follow up the page.",
+            "url" 		: "http://www.ohsean.net/plugins/jfloat/"
+        },
+        {
+            "title"		: "CSS3 Charts",
+            "perma"	    : "css3charts",
+            "num_slide"	: 1,
+            "client"	: null,
+            "agency"	: null,
+            "type"		: "Contest",
+            "role"		: "Developer",
+            "desc"		: "Back in summer 2010, I was participating CSS3 Design contest sponsored by <a href=\"http://coding.smashingmagazine.com/2010/07/12/css3-design-contest-results/\" target=\"_blank\">Smashing Magazine</a>.<br/><br/>Luckily, I won the first place.",
+            "url" 		: "http://media.smashingmagazine.com/cdn_smash/wp-content/uploads/uploader/images/css3-designs/css3-charts/index.html"
+        },
+        {
+            "title"		: "My Grocery book",
+            "perma"	    : "mygrocerybook",
+            "num_slide"	: 3,
+            "client"	: null,
+            "agency"	: null,
+            "type"		: "Mobile Application",
+            "role"		: "Developer",
+            "desc"		: "My Grocery Book is an easy to use shopping list for BlackBerry® Playbook™.",
+            "url" 		: "http://appworld.blackberry.com/webstore/content/23968/"
+        },
+        {
+            "title"		: "NYC Subway Service Checker",
+            "perma"	    : "nycsubwaystatus",
+            "num_slide"	: 1,
+            "client"	: null,
+            "agency"	: null,
+            "type"		: "Mobile Application",
+            "role"		: "Developer",
+            "desc"		: "This Android app is for New York Subway commuters, including myself.<br/>Check your subway line service before you go out!",
+            "url" 		: "https://play.google.com/store/apps/details?id=air.net.ohsean.nycsubwayservicechecker"
+        }
+        ]
+    }
+    ]
+
+}
